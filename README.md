@@ -1,1 +1,1 @@
-# dcg.github.io
+.github.io
